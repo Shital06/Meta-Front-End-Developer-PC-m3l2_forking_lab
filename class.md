@@ -67,6 +67,8 @@
            
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
+  - [Shital] Version Control
+
 - ### **T**
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
